@@ -1,5 +1,7 @@
 Dock Locker will aim at ‘Digital Empowerment’ of citizens by providing access to authentic digital documents to person’s digital document wallet. It aims to provide a Digital wallet to every person so that all the documents can be made available electronically at one place and can be accessed from anywhere anytime.Targeted at the idea of paperless governance, This will be a platform for issuance and verification of documents & certificates in a digital way, thus eliminating the use of physical documents. 
-
 Self-uploaded documents will be signed digitaly using the eSign facility, which is similar to the process of self-attestation.
-
 It will sync all his academic records, travel documents, legal id issued by government, and other certificates. It will be simple and convenient to share documents online. High security will be provided for some sensetive documents
+
+This project underlines the most asked question Where do I keep my Documents?
+Well here is the answer.  This project named Docklocker will keep all of the legal documents issued to a person in secure cloud storage and will be ccessible anywehre anytime.
+Dock locker will provides access to authentic virtual documents. It is a digital document wallet where one could store his/her documents such as driving licence, Academic records, ID-Card, policy documents, Passport, etc. One could upload the documents and keep these safe here in dedicated cloud storage space that will be linked to one's Social Security Number. This digital locker will help in eliminating use of physical documents and enables sharing of e-documents across government agencies via a mechanism to verify the “authenticity" of the documents online. 
