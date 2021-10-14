@@ -1,0 +1,5 @@
+Dock Locker will aim at ‘Digital Empowerment’ of citizens by providing access to authentic digital documents to person’s digital document wallet. It aims to provide a Digital wallet to every person so that all the documents can be made available electronically at one place and can be accessed from anywhere anytime.Targeted at the idea of paperless governance, This will be a platform for issuance and verification of documents & certificates in a digital way, thus eliminating the use of physical documents. 
+
+Self-uploaded documents will be signed digitaly using the eSign facility, which is similar to the process of self-attestation.
+
+It will sync all his academic records, travel documents, legal id issued by government, and other certificates. It will be simple and convenient to share documents online. High security will be provided for some sensetive documents
